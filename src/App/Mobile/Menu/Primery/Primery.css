@@ -1,0 +1,125 @@
+.PrimeryMenu{
+    
+    
+    display: flex;
+    flex-direction: column;
+}
+.PrimeryMenuH{
+    color: rgb(76, 87, 105);
+    font-family: "SourceSansPro-Semibold";
+    
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: default;
+}
+.PrimeryMenuH>p{
+    cursor: default;
+    margin-left: 30px;
+}
+.PrimeryMenuItem{
+    color: white;
+    font-family: "SourceSansPro-Semibold";
+    
+    cursor: pointer;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.PrimeryMenuN{
+    cursor: pointer;
+    font-family: "SourceSansPro-Semibold";
+    color: white;
+    margin-right: 35px;
+    background-color: rgb(36, 154, 243);
+    border-radius: 45%;
+    display: flex;
+    width: 30px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.PrimeryMenuItem>p{
+    cursor: pointer;
+    margin-left: 30px;
+}
+.PrimeryMenuItem:hover{
+    background-color: rgb(49, 61, 79);
+}
+.PrimeryMenuItem{
+    height: 35px;
+}
+.PrimerySearch{
+    margin-bottom: 100px;
+    
+    
+}
+.PrimerySearchBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 35px 35px 0px 35px;
+    border-bottom: 1px solid rgb(49, 51, 79);
+    
+}
+.PrimerySearchBar>input{
+    border: none;
+    background-color: rgb(34, 44, 60);
+    outline:none;
+    color: white;
+    margin-bottom: 5px;
+}
+.PrimeryFriends{
+    
+    height: 45%;
+    
+}
+.PrimeryFriendsBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.FconteinerR{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.FLogo{
+    
+    min-width: 50px;
+    min-height: 50px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    
+    
+}
+.FLogoA{
+    position: relative;
+    
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+    z-index: 1;
+} 
+.FLogoS{
+    position: relative;
+    top:-18px;
+    left: 36px;
+    z-index: 2;
+    
+}
+.FconteinerC{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "SourceSansPro-Semibold";
+    cursor: pointer;
+} 

@@ -1,0 +1,53 @@
+@font-face {
+    
+    font-family: "SourceSansPro-Semibold"; 
+    
+    src: url("../fonts/SourceSansPro-Semibold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+@font-face {
+    
+    font-family: "SourceSansPro-Regular"; 
+    
+    src: url("../fonts/SourceSansPro-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background: rgb(239, 243, 246);
+}
+.conteinerR{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
+}
+.conteinerC{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.conteinerRM{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.conteinerCM{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+    
+}

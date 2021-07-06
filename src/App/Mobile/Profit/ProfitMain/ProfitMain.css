@@ -1,0 +1,112 @@
+.ProfiEarningHistory{
+    
+    width: 100%;
+    
+    margin-bottom: 35px;
+    background-color: rgb(255, 255, 255);
+}
+.ProfitStats{
+    height: 150px;
+    width: 100%;
+    
+    margin-bottom: 35px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.ProfitStatsConteiner{
+    
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+
+}
+.ProfitStatsConteinerF1M{
+    font-family: "SourceSansPro-Regular";
+    font-size: 15pt;
+    color:rgb(53, 64, 82);
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ProfitStatsConteinerF2M{
+    font-family: "SourceSansPro-Semibold";
+    font-size: 6pt;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ProfitStatsConteinerF3M{
+    font-family: "SourceSansPro-Regular";
+    font-size: 6pt;
+    color:rgb(53, 64, 82);
+    border-top: 1px solid rgb(240, 240, 240);
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 248, 250);
+    
+}
+.ProfitStatsConteinerF3C1{
+    border-radius: 50%;
+    min-width: 10px;
+    min-height: 10px;
+    width: 10px;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+
+.ProfitReferrer{
+    
+    width: 100%;
+    
+    background-color: rgb(255, 255, 255);
+}
+.ProfitMainInfo{
+    
+    width: 100%;
+    
+    margin-bottom: 35px;
+    margin-right: 35px;
+    background-color: rgb(255, 255, 255);
+}
+.ProfitEvents{
+    
+    width: 100%;
+    
+    
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}
+.ProfitEventsRow{
+    display: flex;
+    margin: 20px;
+    margin-top: 0;
+    justify-content: space-between;
+}
+.ProfitEventsRowC{
+    display: flex;
+    flex-direction: column;
+}
+.ProfitEventsRowS{
+    font-size: 10pt;
+    font-family: "SourceSansPro-Semibold";
+    color: white;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

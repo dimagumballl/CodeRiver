@@ -1,0 +1,33 @@
+.ProfitReferrerRH{
+    height: 60px;
+    width: 100%;
+    
+    display: flex;
+    color:rgb(53, 64, 82);
+    
+}
+.ProfitReferrerCN{
+    width: 40%;
+    
+    display: flex;
+    font-family: "SourceSansPro-Regular";
+    font-size: 14pt;
+    align-items: center;
+    padding-left: 30px;
+}
+.ProfitReferrerC{
+    width: 15%;
+    
+    display: flex;
+    font-family: "SourceSansPro-Semibold";
+    font-size: 14pt;
+    align-items: center;
+}
+.ProfitReferrerR{
+    height: 30px;
+    width: 100%;
+    
+    display: flex;
+    color:rgb(53, 64, 82);
+    
+}

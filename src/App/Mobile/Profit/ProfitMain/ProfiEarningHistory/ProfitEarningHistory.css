@@ -1,0 +1,37 @@
+.EHconteinerR{
+    font-size: 24pt;
+    font-family: "SourceSansPro-Regular";
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.EHGconteinerR{
+    height: 100%;
+    
+    margin: 0px 30px 30px 30px;
+    
+}
+.EHconteinerRButtons{
+    display: flex;
+    font-family: "SourceSansPro-Semibold";
+    font-size: 12pt;
+    color: rgb(203,209,217);
+    
+}
+.EHconteinerRButtonsN{
+    padding: 0px 15px 0px 15px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    cursor: pointer;
+}
+.EHconteinerRButtonsA{
+    padding: 0px 15px 0px 15px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    background-color: rgb(42, 157, 242);
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+}

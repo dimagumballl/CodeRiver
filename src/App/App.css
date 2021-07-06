@@ -1,0 +1,19 @@
+.Main{
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.Profit{
+    width: 75%;
+    display: flex;
+    
+    
+}
+.Menu{
+    width: 25%;
+    height: 100vh;
+    position: fixed;
+}

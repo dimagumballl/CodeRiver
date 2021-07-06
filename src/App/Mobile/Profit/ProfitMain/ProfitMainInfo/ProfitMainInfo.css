@@ -1,0 +1,88 @@
+.ProfitMainInfoHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    height: 390px;
+    margin: 10px;
+    
+}
+.ProfitMainInfoHeaderImg{
+    height: 320px;
+    width: 100%;
+}
+.ProfitMainInfoHeaderAvatar{
+    overflow: hidden;
+    position: relative;
+    height: 160px;
+    width: 160px;
+    
+    border-radius: 50%;
+    top: -80px;
+}
+.ProfitMainInfoHeaderName{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: -80px;
+}
+.ProfitMainInfoBody{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    margin: 30px;
+    margin-top: -80px;
+    border-top: 0.5px solid rgb(203,209,217);
+}
+.ProfitMainInfoBodyRow{
+
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.ProfitMainInfoBodyRowT{
+    font-family: "SourceSansPro-Regular";
+    color: rgb(203,209,217);
+    font-size: 12pt;
+}
+.ProfitMainInfoBodyRowC{
+    font-family: "SourceSansPro-Semibold";
+    font-size: 16pt;
+    color: rgb(53, 64, 82);
+    margin-top: 10px;
+    
+}
+.PayOutLimit{
+    display: flex;
+    align-items: center;
+}
+.PayOutLimitL{
+    background-color: rgb(41, 157, 245);
+    height: 100%;
+    border-radius: 5px;
+}
+.PayOutLimitF{
+    overflow: hidden;
+    height: 5px;
+    width: 60%;
+    border-radius: 5px;
+    background-color: rgb(203,209,217);
+    
+    
+}
+.SkillsRowB{
+    display: flex;
+}
+.SkillsB{
+    font-size: 10pt;
+    font-family: "SourceSansPro-Semibold";
+    color: white;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+}

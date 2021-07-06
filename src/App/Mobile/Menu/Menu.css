@@ -1,0 +1,25 @@
+
+::-webkit-scrollbar {
+    width: 10px; /* ширина для вертикального скролла */
+    height: 10px; /* высота для горизонтального скролла */
+    background-color: rgba(29, 37, 49, 0);
+}
+::-webkit-scrollbar-thumb {
+    background-color: rgb(51, 63, 78);
+    border-radius: 9em;
+    box-shadow: inset 1px 1px 10px rgb(35, 43, 53);
+}
+.Secondary{
+    width: 30%;
+    
+    
+    background-color: rgb(29, 37, 49);
+    
+}
+.Primery{
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: rgb(34, 44, 60);
+    font-size: 14pt;
+}

@@ -1,0 +1,21 @@
+.MainM{
+    
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.ProfitM{
+    width: 100%;
+    display: flex;
+    
+    
+}
+.MenuM{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    z-index: 100;
+    
+}
