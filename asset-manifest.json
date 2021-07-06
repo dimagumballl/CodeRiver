@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CodeRiver/static/css/main.35256d4a.chunk.css",
-    "main.js": "/CodeRiver/static/js/main.84218d62.chunk.js",
-    "main.js.map": "/CodeRiver/static/js/main.84218d62.chunk.js.map",
+    "main.js": "/CodeRiver/static/js/main.afe8f4bf.chunk.js",
+    "main.js.map": "/CodeRiver/static/js/main.afe8f4bf.chunk.js.map",
     "runtime-main.js": "/CodeRiver/static/js/runtime-main.f6d2859c.js",
     "runtime-main.js.map": "/CodeRiver/static/js/runtime-main.f6d2859c.js.map",
     "static/js/2.a62a15df.chunk.js": "/CodeRiver/static/js/2.a62a15df.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.f6d2859c.js",
     "static/js/2.a62a15df.chunk.js",
     "static/css/main.35256d4a.chunk.css",
-    "static/js/main.84218d62.chunk.js"
+    "static/js/main.afe8f4bf.chunk.js"
   ]
 }
