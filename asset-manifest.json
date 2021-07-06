@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodeRiver/static/css/main.35256d4a.chunk.css",
+    "main.js": "/CodeRiver/static/js/main.33c0c38e.chunk.js",
+    "main.js.map": "/CodeRiver/static/js/main.33c0c38e.chunk.js.map",
+    "runtime-main.js": "/CodeRiver/static/js/runtime-main.f6d2859c.js",
+    "runtime-main.js.map": "/CodeRiver/static/js/runtime-main.f6d2859c.js.map",
+    "static/js/2.a62a15df.chunk.js": "/CodeRiver/static/js/2.a62a15df.chunk.js",
+    "static/js/2.a62a15df.chunk.js.map": "/CodeRiver/static/js/2.a62a15df.chunk.js.map",
+    "static/js/3.1ba3f712.chunk.js": "/CodeRiver/static/js/3.1ba3f712.chunk.js",
+    "static/js/3.1ba3f712.chunk.js.map": "/CodeRiver/static/js/3.1ba3f712.chunk.js.map",
+    "index.html": "/CodeRiver/index.html",
+    "static/css/main.35256d4a.chunk.css.map": "/CodeRiver/static/css/main.35256d4a.chunk.css.map",
+    "static/js/2.a62a15df.chunk.js.LICENSE.txt": "/CodeRiver/static/js/2.a62a15df.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/CodeRiver/static/media/SourceSansPro-Semibold.1f6134fb.ttf",
+    "static/media/kisspng-computer-icons-hamburger-button-menu-new-menu-5b34724c3cb0f7.1188475115301637882486.fc087e69.png": "/CodeRiver/static/media/kisspng-computer-icons-hamburger-button-menu-new-menu-5b34724c3cb0f7.1188475115301637882486.fc087e69.png",
+    "static/media/shutterstock_14778586.c3f48293.jpg": "/CodeRiver/static/media/shutterstock_14778586.c3f48293.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d2859c.js",
+    "static/js/2.a62a15df.chunk.js",
+    "static/css/main.35256d4a.chunk.css",
+    "static/js/main.33c0c38e.chunk.js"
+  ]
+}
